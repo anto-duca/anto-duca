@@ -3,9 +3,9 @@
 :mag: Actualmente busco oportunidades para continuar con mi aprendizaje y desarrollar todo mi potencial en este campo.
 
 ## Estudios :computer:
-:pushpin: Completé los cursos de **Photoshop e Illustrator** y de **Desarrollo Web (HTML y CSS)**.<br>
-:pushpin: Actualmente estoy estudiando **JavaScript**.<br>
-:next_track_button: Y ya tengo previsto continuar con **React**. 
+:pushpin: Completé los cursos de **Photoshop e Illustrator**, **Desarrollo Web (HTML y CSS)** y **JavaScript**.<br>
+:pushpin: Actualmente estoy estudiando **React**.<br>
+:next_track_button: Y en agosto comienzo con la Tecnicatura para ser **Analista en Sistemas**. 
 
 ## Sobre mí
 :muscle: Abierta a nuevos desafíos.<br>
