@@ -11,7 +11,8 @@
 :muscle: Abierta a nuevos desafíos.<br>
 :eye: Ojo para los detalles.<br>
 :jigsaw: Resolutiva y organizada.<br>
-:1st_place_medal: Responsable y comprometida. 
+:1st_place_medal: Responsable y comprometida. <br>
+:heart_decoration: Me encanta trabajar en equipo.
 
 ## Contacto
 :incoming_envelope: Para conocerme mejor chequeá mi perfil en [Linkedin](https://www.linkedin.com/in/antonella-duca/)
