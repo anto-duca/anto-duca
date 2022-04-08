@@ -1,11 +1,11 @@
 # Antonella Duca - Desarrolladora Web en progreso :chart_with_upwards_trend: 
 👋 ¡Hola! soy Anto, Licenciada en turismo :confused:. Te preguntarás ¿qué hago acá?, los caminos de la vida me llevaron a descubrir el mundo de la programación y ahora no puedo parar.
-:mag: Actualmente busco oportunidades para continuar con mi aprendizaje y desarrollar todo mi potencial en este campo.
+:mag: Actualmente busco oportunidades para continuar con mi aprendizaje y desarrollar laboralmente todo mi potencial en este campo.
 
 ## Estudios :computer:
-:pushpin: Completé los cursos de **Photoshop e Illustrator**, **Desarrollo Web (HTML y CSS)** y **JavaScript**.<br>
-:pushpin: Actualmente estoy estudiando **React**.<br>
-:next_track_button: Y en agosto comienzo con la Tecnicatura para ser **Analista en Sistemas**. 
+:pushpin: Completé los cursos de **Photoshop e Illustrator**, **Desarrollo Web (HTML y CSS)**, **JavaScript** y **React**.<br>
+:pushpin: Actualmente estoy comenzando a desarrollar con **C#**, **POO**, repasando **JS**, **HTML** y **CSS** e incorporando nuevos conceptos cursando la Tecnicatura para ser **Analista en Sistemas**.<br>
+:next_track_button: Continuar aprendiendo siempre!, en un equipo que me de la primera oportunidad de demostrar mis habilidades.
 
 ## Sobre mí
 :muscle: Abierta a nuevos desafíos.<br>
