@@ -9,7 +9,7 @@
 
 ## Sobre mí
 :muscle: Abierta a nuevos desafíos.<br>
-:eye: Ojo para los detalles.<br>
+:eye: Detallista.<br>
 :jigsaw: Resolutiva y organizada.<br>
 :1st_place_medal: Responsable y comprometida. <br>
 :heart_decoration: Me encanta trabajar en equipo.
