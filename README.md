@@ -4,7 +4,7 @@
 
 ## Estudios :computer:
 :pushpin: Completé los cursos de **Photoshop e Illustrator**, **Desarrollo Web (HTML y CSS)**, **JavaScript** y **React** en CoderHouse.<br>
-:pushpin: Actualmente estoy comenzando a desarrollar con **C#** dentro del paradigma **POO**, aprendiendo **Angular con TypeScript**, repasando **JS**, **HTML** y **CSS** e incorporando nuevos conceptos ya que estoy cursando en ISTEA la Tecnicatura para ser **Analista en Sistemas**.<br>
+:pushpin: Actualmente estoy comenzando a desarrollar con **C#** dentro del paradigma **POO**, aprendiendo **Angular** con **TypeScript**, repasando **JS**, **HTML** y **CSS** e incorporando nuevos conceptos ya que estoy cursando en ISTEA la Tecnicatura para ser **Analista en Sistemas**.<br>
 :next_track_button: Continuar aprendiendo siempre, incorporándome a un equipo que me de la primera oportunidad de demostrar mis habilidades.
 
 ## Sobre mí
