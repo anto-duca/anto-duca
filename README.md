@@ -1,5 +1,6 @@
 # Antonella Duca - Desarrolladora Web y Analista en Sistemas en Progreso :chart_with_upwards_trend: 
-👋 ¡Hola! soy Anto, Licenciada en turismo :confused:. Te preguntarás ¿qué hago acá?, los caminos de la vida me llevaron a descubrir el mundo de la programación y ahora no puedo parar.
+👋 ¡Hola! soy Anto, Licenciada en turismo. Te preguntarás ¿qué hago acá? :confused:, los caminos de la vida me llevaron a descubrir el mundo de la programación y ahora no puedo parar.
+
 :mag: Actualmente busco oportunidades para continuar con mi aprendizaje y desarrollar laboralmente todo mi potencial en este campo.
 
 ## Estudios :computer:
