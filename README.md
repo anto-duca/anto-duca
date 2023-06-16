@@ -1,15 +1,14 @@
-# Antonella Duca - Desarrolladora Web y Analista en Sistemas en Progreso :chart_with_upwards_trend: 
+# Antonella Duca - Desarrolladora Web, Analista Funcional y Analista en Sistemas en Progreso :chart_with_upwards_trend: 
 👋 ¡Hola! soy Anto, Licenciada en turismo. Te preguntarás ¿qué hago acá? :confused:, los caminos de la vida me llevaron a descubrir el mundo de la programación y ahora no puedo parar.
 
-:mag: Actualmente busco oportunidades para continuar con mi aprendizaje y desarrollar laboralmente todo mi potencial en este campo.
+:mag: Actualmente soy Analista Funcional de las plataformas de trámites a distancia en el Gobierno de la Ciudad de Buenos Aires.
 
 ## Estudios :computer:
 :pushpin: Completé los cursos de **Photoshop e Illustrator**, **Desarrollo Web (HTML y CSS)**, **JavaScript** y **React** en CoderHouse.<br>
 :pushpin: Actualmente estoy comenzando a desarrollar con **C#** dentro del paradigma **POO**, aprendiendo **Angular** con **TypeScript**, repasando **JS**, **HTML** y **CSS** e incorporando nuevos conceptos ya que estoy cursando en ISTEA la Tecnicatura para ser **Analista en Sistemas**.<br>
-:next_track_button: Continuar aprendiendo siempre, incorporándome a un equipo que me de la primera oportunidad de demostrar mis habilidades.
+:next_track_button: Continuar aprendiendo siempre.
 
 ## Sobre mí
-:muscle: Abierta a nuevos desafíos.<br>
 :eye: Detallista.<br>
 :jigsaw: Resolutiva y organizada.<br>
 :1st_place_medal: Responsable y comprometida. <br>
