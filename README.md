@@ -6,7 +6,7 @@
 ## Estudios :computer:
 :pushpin: Completé los cursos de **Photoshop e Illustrator**, **Desarrollo Web (HTML y CSS)**, **JavaScript** y **React** en CoderHouse.<br>
 :pushpin: Durante mi carrera aprendí a desarrollar con **C#** dentro del paradigma **POO**, aprendiendo **Angular** con **TypeScript**, repasando **JS**, **HTML** y **CSS** e incorporando nuevos conceptos.<br>
-:pushpin: En febrero de este año comencé el curso de **Big Data / Data Analytics** de Codo a Codo y aprendí más sobre **SQL**, **Google Sheets** y descubrí el mundo de **Looker**, **Python y sus librerías**.
+:pushpin: En febrero de este año comencé el curso de **Big Data / Data Analytics** de Codo a Codo y aprendí más sobre **SQL**, **Google Sheets** y descubrí el mundo de **Looker**, **Python y sus librerías**.<br>
 :next_track_button: Continuar aprendiendo siempre.
 
 ## Sobre mí
